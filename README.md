@@ -59,7 +59,7 @@ I'm a Fullstack Developer who enjoys building web applications and RESTful APIs.
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with fellow developers, collaborating on interesting projects, and sharing knowledge.
+"Open for work opportunities, freelancing, and collaborative projects."
 
 <p>
   <a href="www.linkedin.com/in/mutiara-tari-fadilah">
